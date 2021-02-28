@@ -8,7 +8,7 @@ tel: **+375297552301**;
 
 ---
 
-#### Summary доработать
+#### Summary
 
 Experience in IT industry more 3 years as HTML-developer that includes developing responsive layouts of webpages and apps using standard HTML5/CSS3 practices. Skilled in development of semantic HTML markup according to W3C standards with cross-browser compatibility. I come up with a great responsibility to all the projects, trying to find the most suitable solution.
 
