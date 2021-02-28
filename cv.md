@@ -3,7 +3,8 @@
 #### Contacts for communication
 
 email: **ivaka3na@gmail.com**;\
-skype: **katrina_i87**;
+skype: **katrina_i87**;\
+tel: **+375297552301**;
 
 ---
 
@@ -81,7 +82,7 @@ HTML-developer more 3 yers.
 #### Education
 
 Belarusian State University of Informatics and Radioelectronics \
-Specialization: Multichannel system of telecommunications.
+**Specialization**: Multichannel system of telecommunications.
 
 ---
 
