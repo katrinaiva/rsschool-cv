@@ -69,13 +69,13 @@ similarListElement.appendChild(wizardFragment);
 
 #### Work Experience
 
-HTML-developer more 3 yers.
+**2020**
+*Html-Developer Navek Soft*
+Developing of HTML/CSS responsive layouts using Bootstrap Framework, Angular, ensuring cross browser and cross-device compatibility and performance.
 
-**Courses, certificates**
-
-- HTML & CSS base course (html Academy). Educational projects: [Sedona](https://katrinaiva.github.io/188118-sedona/) and [Nerds](https://katrinaiva.github.io/188118-nerds/).
-
-- HTML & CSS advanced course (html Academy). Educational project [Pink](https://katrinaiva.github.io/188118-pink/)
+**2017 - 2020**
+*Html-Developer Qulix Sistems*
+Developing of HTML/CSS responsive layouts using Bootstrap Framework, Angular, ensuring cross browser and cross-device compatibility and performance.
 
 ---
 
@@ -83,6 +83,11 @@ HTML-developer more 3 yers.
 
 Belarusian State University of Informatics and Radioelectronics \
 **Specialization**: Multichannel system of telecommunications.
+
+**Courses, certificates**
+- HTML & CSS base course (html Academy). Educational projects: [Sedona](https://katrinaiva.github.io/188118-sedona/) and [Nerds](https://katrinaiva.github.io/188118-nerds/).
+
+- HTML & CSS advanced course (html Academy). Educational project [Pink](https://katrinaiva.github.io/188118-pink/)
 
 ---
 
