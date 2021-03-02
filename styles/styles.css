@@ -19,24 +19,24 @@ body {
 
 body {
   font-family: "Open Sans", sans-serif;
-  background-color: var(--light-grey);
-  color: var(--dark-blue);
   line-height: 1.5;
+  color: var(--dark-blue);
+  background-color: var(--light-grey);
 }
 
 .container {
-  max-width: 1280px;
-  margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
+  max-width: 1280px;
+  margin: 0 auto;
   overflow: hidden;
 }
 
 .cv-aside {
   position: relative;
-  padding: 0 40px;
   flex-grow: 1;
   width: 40%;
+  padding: 0 40px;
   color: var(--white);
   background-color: var(--dark-blue);
 }
@@ -44,9 +44,9 @@ body {
 .cv-aside__img {
   position: relative;
   top: 50%;
-  transform: translateY(-50%);
   width: 240px;
   height: 240px;
+  transform: translateY(-50%);
   object-fit: cover;
   clip-path: polygon(
     30% 0%,
@@ -80,21 +80,21 @@ body {
 }
 
 .cv-main {
-  padding: 0 40px;
-  width: 60%;
   flex-grow: 1;
+  width: 60%;
+  padding: 0 40px;
   background-color: var(--white);
 }
 
 .cv-main__title {
   position: relative;
   top: 50%;
-  transform: translateY(-50%);
   margin: 0;
   text-transform: uppercase;
   font-size: 40px;
   line-height: 1.2;
   letter-spacing: -4px;
+  transform: translateY(-50%);
 }
 
 .cv-main__title span {
@@ -108,8 +108,8 @@ body {
 
 .main-section__title {
   position: relative;
-  margin-bottom: 30px;
   padding: 10px 10px 10px 30px;
+  margin-bottom: 30px;
   text-transform: uppercase;
   letter-spacing: -0.04em;
   background-color: var(--light);
@@ -145,9 +145,9 @@ body {
 }
 
 .main-section__termin {
+  margin-bottom: 10px;
   font-weight: bold;
   color: var(--grey);
-  margin-bottom: 10px;
 }
 
 .main-section__termin p {
@@ -197,20 +197,15 @@ body {
   background-color: var(--white);
 }
 
-.skills-list {
-  margin: 0;
+.skills-list,
+.aside-section__list {
   padding-left: 0;
+  margin: 0;
   list-style: none;
 }
 
 .skills-list__item + .skills-list__item {
   margin-top: 20px;
-}
-
-.aside-section__list {
-  margin: 0;
-  padding-left: 0;
-  list-style: none;
 }
 
 .aside-section__link {
@@ -221,10 +216,9 @@ body {
 }
 
 .aside-section__icon {
-  margin-right: 10px;
   width: 20px;
   height: 20px;
-
+  margin-right: 10px;
   vertical-align: middle;
 }
 
@@ -233,8 +227,8 @@ body {
 }
 
 .skills-list__item ul {
-  list-style: none;
   padding-left: 0;
+  list-style: none;
 }
 
 .skills-list__item ul li {
@@ -247,12 +241,12 @@ body {
   position: absolute;
   left: 10px;
   top: 50%;
-  transform: translateY(-50%);
   display: block;
   width: 6px;
   height: 6px;
   border-radius: 50%;
   background-color: var(--red);
+  transform: translateY(-50%);
 }
 
 .cv-aside__header {
